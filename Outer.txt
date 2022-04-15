@@ -1,1 +1,1 @@
-This text file appears in the upmost layer of the directory.
+The new Outer.txt.

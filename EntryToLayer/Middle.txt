@@ -1,1 +1,2 @@
 This text file is in the middle layer of the directory.
+The new Middle.txt.
